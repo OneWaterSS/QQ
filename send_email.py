@@ -109,7 +109,7 @@ def get_weather():
 # ===== 邮件配置（支持环境变量，GitHub Actions用 / 本地用默认值）=====
 from_addr = os.environ.get("FROM_ADDR", "2031911770@qq.com")
 auth_code = os.environ.get("AUTH_CODE", "opylvsiejazofchi")
-to_addr = os.environ.get("TO_ADDR", "2031911770@qq.com")
+to_addr = os.environ.get("TO_ADDR", "1273289785@qq.com")
 
 # ===== 100句情话 =====
 love_messages = [
