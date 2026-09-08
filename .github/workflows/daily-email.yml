@@ -2,8 +2,8 @@ name: 每日情话邮件
 
 on:
   schedule:
-    # 每天 UTC 06:32 = 北京时间 14:32（测试用）
-    - cron: '32 6 * * *'
+    # 每天 UTC 07:02 = 北京时间 15:02（测试用）
+    - cron: '2 7 * * *'
   workflow_dispatch: # 支持手动触发
 
 jobs:
