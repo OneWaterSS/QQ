@@ -287,7 +287,7 @@ def send_email():
     <h1>每 日 情 话</h1>
   </div>
   <div class="content">
-    <div class="greeting">亲爱的甜甜姐姐，</div>
+    <div class="greeting">姐姐</div>
     <div class="message">{message}</div>
     <div class="days-box">
       <div class="num">{days}</div>
